@@ -1,138 +1,313 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Yazdan%20Haider&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20Vue&descAlignY=55&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Yazdan Haider
 
-### Full-Stack Web Developer | PHP & Laravel Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=80&lines=PHP+%26+Laravel+Specialist;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Laravel+%2B+Vue+%2B+MySQL;AI-Assisted+Software+Development" alt="Typing SVG" />
 
-I’m a Full-Stack Web Developer with **10+ years of experience** building scalable web applications, business platforms, APIs, eCommerce solutions, and custom software.
+<p>
+  <a href="https://github.com/YazdanHaider27">
+    <img src="https://img.shields.io/github/followers/YazdanHaider27?label=Followers&style=for-the-badge&logo=github&color=2563EB"/>
+  </a>
+  <a href="https://github.com/YazdanHaider27">
+    <img src="https://komarev.com/ghpvc/?username=YazdanHaider27&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
+  </a>
+</p>
 
-I primarily work with **PHP, Laravel, MySQL, JavaScript, Vue.js, WordPress, and OpenCart**, with a strong focus on clean architecture, performance, and practical business solutions.
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 10+ years of professional web development experience
-- 🔥 Specialized in **PHP & Laravel**
-- 🌐 Building custom web applications, SaaS platforms & APIs
-- 🛒 Experience with eCommerce platforms and business management systems
-- ⚡ Interested in modern **Laravel + Vue.js** applications
-- 🤖 Exploring **AI-assisted software development & AI-powered workflows**
-- 🐧 Comfortable working with Linux servers, cPanel/WHM and web hosting infrastructure
-- 🌱 Currently improving my **Vue.js, Nuxt and AI development** skills
-- 🇩🇪 Currently learning German (A1)
+I'm a **Full-Stack Web Developer with 10+ years of experience** building websites, web applications, APIs, SaaS platforms, eCommerce systems, and business management solutions.
+
+My main expertise is **PHP & Laravel**, with experience across frontend development, databases, servers, hosting infrastructure, and modern web technologies.
+
+```text
+10+ Years Experience
+        │
+        ├── PHP / Laravel
+        ├── MySQL / Database Design
+        ├── JavaScript / Vue / Nuxt
+        ├── WordPress / OpenCart
+        ├── REST APIs
+        ├── Linux / cPanel / WHM
+        └── AI-Assisted Development
+```
+
+### 🔭 Currently focusing on
+
+- 🚀 Laravel + Vue.js / Nuxt applications
+- 🧩 REST API architecture
+- ⚡ Performance & database optimization
+- 🤖 AI-assisted software development
+- 🔄 Development automation
+- ☁️ Server & hosting infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,vue,nuxt,html,css,bootstrap,jquery" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ### CMS & eCommerce
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![OpenCart](https://img.shields.io/badge/OpenCart-2A7DE1?style=for-the-badge&logo=opencart&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
 ### DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx" />
+</p>
 
 ---
 
 ## 💼 What I Build
 
-- 🏢 Custom Business Applications
-- 🚀 Laravel SaaS Platforms
-- 🔌 REST APIs & Backend Systems
-- 🛒 eCommerce Websites & Platforms
-- 📊 POS & Inventory Management Systems
-- 👥 CRM & Business Management Systems
-- 🌐 WordPress & Custom Websites
-- ⚙️ Server & Hosting Management Solutions
-- 🤖 AI-assisted Development & Automation
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 SaaS Applications
+
+Scalable Laravel-based SaaS platforms with authentication, APIs, dashboards, subscriptions and business logic.
+
+</td>
+<td width="50%">
+
+### 🧾 Business Systems
+
+POS, inventory, sales, customer management, reporting and business automation platforms.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🛒 eCommerce
+
+Custom eCommerce solutions using Laravel, WordPress and OpenCart.
+
+</td>
+<td>
+
+### 🔌 APIs
+
+REST APIs, third-party integrations and backend services for web and mobile applications.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Websites
+
+High-performance business websites and custom CMS solutions.
+
+</td>
+<td>
+
+### ☁️ Infrastructure
+
+Linux servers, cPanel/WHM, DNS, hosting, migrations and website infrastructure.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Currently Working With
+## 🧠 Development Philosophy
 
-```text
-Laravel + PHP
-        ↓
-REST APIs
-        ↓
-Vue.js / Nuxt
-        ↓
-MySQL
-        ↓
-Linux / cPanel / Docker
+```php
+<?php
+
+class Developer
+{
+    public string $focus = "Building practical software";
+
+    public array $principles = [
+        "Clean & maintainable code",
+        "Performance matters",
+        "Security first",
+        "Simple solutions over unnecessary complexity",
+        "Continuous learning",
+        "Business requirements come first",
+    ];
+
+    public function build(): string
+    {
+        return "Think → Build → Test → Improve → Ship 🚀";
+    }
+}
 ```
-
-I'm particularly interested in building modern applications using **Laravel as the backend and Vue/Nuxt as the frontend**.
 
 ---
 
 ## 🤖 AI & Modern Development
 
-I’m actively integrating AI into my development workflow to improve:
+I'm actively integrating AI into my development workflow.
 
-- AI-assisted coding
-- Code generation & refactoring
-- Debugging and problem solving
-- API development
-- Documentation
-- Development automation
-- AI-powered business workflows
+```text
+AI
+│
+├── AI-assisted coding
+├── Code generation
+├── Refactoring
+├── Debugging
+├── Documentation
+├── API development
+├── Development automation
+└── AI-powered business workflows
+```
 
----
-
-## 📌 Featured Areas
-
-### 🧾 Business & POS Systems
-Developing business-oriented systems including POS, inventory, sales, customer management and reporting platforms.
-
-### 🌐 SaaS & Web Applications
-Building scalable Laravel applications with authentication, APIs, dashboards, subscriptions and business logic.
-
-### ☁️ Hosting & Infrastructure
-Hands-on experience managing Linux servers, cPanel/WHM, websites, domains, DNS, migrations and hosting environments.
+My goal is to combine **strong software engineering fundamentals with modern AI-assisted development workflows**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YazdanHaider27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YazdanHaider27&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YazdanHaider27&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazdanHaider27&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YazdanHaider27&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 My Contribution Journey
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yazdanhaider27/)
-- 📸 [Instagram](https://www.instagram.com/yazdanhaider27/)
-- 🌐 [Facebook](https://www.facebook.com/yazdanhaider27/)
-- 🌍 [Softlico](https://softlico.com/)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YazdanHaider27/YazdanHaider27/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YazdanHaider27/YazdanHaider27/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YazdanHaider27/YazdanHaider27/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## 💬 Let's Build Something
+## 🚀 Featured Projects
 
-I'm interested in working on **remote software development projects, Laravel applications, SaaS products, APIs, and long-term engineering collaborations.**
+> I'm continuously adding and improving projects here.
 
-⭐ If you find my work useful, consider giving my repositories a star!
+### 🧾 Business Management & POS
+
+**Laravel-based business solutions**
+
+- Sales & purchases
+- Inventory management
+- Customer management
+- Payments & dues
+- Reporting
+- Role-based access
+
+### 🌐 Custom Laravel Applications
+
+Building custom applications around real-world business requirements using:
+
+`Laravel` `PHP` `MySQL` `REST API` `Vue.js`
+
+### 🛒 eCommerce Solutions
+
+Experience with:
+
+`WooCommerce` `WordPress` `OpenCart` `Custom PHP`
+
+---
+
+## 📈 Current Learning Path
+
+```text
+Laravel
+   │
+   ▼
+REST APIs
+   │
+   ▼
+Vue 3
+   │
+   ▼
+Nuxt
+   │
+   ▼
+Advanced Full-Stack Applications
+   │
+   ▼
+AI-Powered Development 🤖
+```
+
+---
+
+## 🌍 Languages
+
+🇬🇧 **English** — Professional
+
+🇵🇰 **Urdu** — Native
+
+🇩🇪 **German** — A1 / Currently Learning
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YazdanHaider27">
+<img src="https://img.shields.io/badge/GitHub-YazdanHaider27-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://softlico.com">
+<img src="https://img.shields.io/badge/Website-Softlico-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to interesting projects & collaborations
+
+**Laravel • PHP • Full-Stack Development • SaaS • APIs • AI-Assisted Development**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>
+
+</div>
