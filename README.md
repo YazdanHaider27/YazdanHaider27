@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:DC2626,100:7F1D1D&height=230&section=header&text=Yazdan%20Haider&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20Vue&descAlignY=57&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&width=800&height=80&lines=PHP+%26+Laravel+Specialist;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Laravel+%2B+Vue+%2B+MySQL;AI-Assisted+Software+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=40&lines=PHP+%26+Laravel+Specialist;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Laravel+%2B+Vue+%2B+MySQL;AI-Assisted+Software+Development&repeat=true" alt="Typing SVG" />
 
 <br>
 
