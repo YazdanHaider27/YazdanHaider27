@@ -187,9 +187,9 @@ I'm actively integrating **AI into my software development workflow** to improve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YazdanHaider27&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180" />
+<img src="./profile/stats.svg" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazdanHaider27&layout=compact&hide_border=true&theme=transparent" height="180" />
+<img src="./profile/top-langs.svg" height="180" />
 
 </div>
 
